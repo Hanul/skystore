@@ -1,0 +1,8 @@
+{
+    "name": "skystore",
+    "author": "Young Jae Sim",
+    "homepage": "https://github.com/Hanul/skystore",
+    "version": "0.0.1",
+    "types": "./SkyStore.d.ts",
+    "main": "./SkyStore.js"
+}
